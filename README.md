@@ -2,21 +2,26 @@
 
 Google Ngrams
 Задание 1
+
 ![](https://github.com/ElidaEmiralieva77/hw6/blob/master/1.png)
 
 Задание 2
+
 ![](https://github.com/ElidaEmiralieva77/hw6/blob/master/2.png)
 
 Задание 3
 Из полученных мною данных можно сделать вывод о том, что синонимичные слова "fall" и "autumn" действительно характерны для разных вариантов английского языка, но частотность слова "fall" в период 1800-2000 гг. намного больше, чем слова "autumn". Это свойственно как и для британского английского, так и для американского английского. 
+
 ![](https://github.com/ElidaEmiralieva77/hw6/blob/master/3.png)
 
 Sketch Engine 
 Задание 1 
+
 ![](https://github.com/ElidaEmiralieva77/hw6/blob/master/5.png)
 
 Задание 2
 Оба синонимичных глагола "offer" и "suggest" могут употребляться с такими дополнениями, как "alternative", "solution", "possibility". В отличие от глагола "suggest" глагол "offer" может употребляться с "opportunity", "advice". В то время как глагол "suggest" может употребляться с "link", "use", а глагол "offer" не может. 
+
 ![](https://github.com/ElidaEmiralieva77/hw6/blob/master/4.png)
 
 Бонусное задание
